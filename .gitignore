@@ -18,6 +18,8 @@
 .env.test.local
 .env.production.local
 
+express-demo_v*.tar.gz
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
